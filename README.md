@@ -16,7 +16,7 @@ V2link 是一个基于 V2Ray 和 Shadowsocks 技术的机场，兼容大部分�
 * 节点速度高达 5Gbps
 * 全球 60+ 节点
 * 高峰期稳定不动摇
-* 全 IPLC 专线专业团队
+* Border Gateway Protocol和IPLC专线专业团队
 * 全节点支持 ChatGPT 及其他 AI 工具
 * 遵守世界版权法
 
